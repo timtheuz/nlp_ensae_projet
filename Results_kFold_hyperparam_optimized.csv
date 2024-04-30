@@ -1,0 +1,9 @@
+,Data,Folds,Vectorizer,Model,Mean Accuracy,Mean Std
+0,gt_firstname_occupation_link,5,BOW,Logistic Regression,0.9169217687074831,0.013583102407649959
+1,gt_firstname_occupation_link,5,BOW,Naive Bayes,0.9045068027210885,0.010636392159434554
+2,gt_firstname_occupation_link,5,TFIDF,Logistic Regression,0.9086734693877551,0.010502303130699445
+3,gt_firstname_occupation_link,5,TFIDF,Naive Bayes,0.9128401360544217,0.0156956297362612
+4,gt_firstname_occupation_link,10,BOW,Logistic Regression,0.9046666666666665,0.045538750287834835
+5,gt_firstname_occupation_link,10,BOW,Naive Bayes,0.9005000000000001,0.04615222397434145
+6,gt_firstname_occupation_link,10,TFIDF,Logistic Regression,0.9086666666666666,0.03641428291206625
+7,gt_firstname_occupation_link,10,TFIDF,Naive Bayes,0.9086666666666667,0.04090503908104994
